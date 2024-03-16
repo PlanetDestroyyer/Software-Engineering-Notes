@@ -1,0 +1,12 @@
+
+A Software processes is the set of activites and associated outcome that produce a Software product
+
+Software Engineeing mostly carry out there activites .
+
+1) Software Specifications
+
+2) Software Deveplement 
+
+3) Software Validation
+
+4) Software Evolution

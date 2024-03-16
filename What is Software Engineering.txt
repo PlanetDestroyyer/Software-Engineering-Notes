@@ -1,0 +1,6 @@
+Software : It is a Collection of integrated program. Means it carefully-organized instructions and code written by Deveplopers on any of Various particular programming Language
+
+Engineeing : It is the application of scientific and practical knowledge of invent , design , buld , maintain and improve frameworks, processes , etc.
+
+
+Software Engineeing : It is a Engineeing branch related to thr evolution of Software product using well defined scientific principles , techniques and procedures. The result of Software Engineeing is an effective and reliable Software product.

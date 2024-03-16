@@ -1,0 +1,38 @@
+SDLC stands for Software Deveplement Life Cycle it is used to deveploing quality Software as per customer requierments
+
+Needs of SDLC process :
+
+> Improved relation with client & Deveplement
+> It offers basic project planning , scheduling & cost estimation
+> Provide standard set of activites & SE rules
+> Incrase & enhance Deveplement speed
+> Maintian project tracking % control
+> Decrease any type of Project risk
+> DEcide entry & exit criteria of each phase
+
+Phase 1 : Requierment analysis & Planning
+
+> Phase conduct by product manager , business analyst or any senior members in team
+> To understand the AIM , Purpose & Exracr requierments of the customer
+> Software Requierment Specification document is created
+
+Phase 2 : Design
+
+> Phase conduct by Product Manager & UI / UX Designer team
+> High Level design include Software Architecture like brief description of each module , Flow Diagram , Database Table , etc
+> Documented in DDS " Design Document Specification
+
+Phase 3 : Implementaion
+> Phase conduct by Deveplopers or programmers
+> Use any Programming Language to develop this Software
+> Use Databaselike SQL amd NOSQL.
+
+Phase 4 : Testing 
+> Phase conduct by QA Team or Tester
+> It perform integrataion testing , black box testing , whitebox testing , system testing , etc
+> Finds bugs and try to report to Deveplopers.
+
+Phase 5 : Deployment & Maintenance
+> Phase conduct by Product Manager , Operation or Production Support team
+> If any issue comes up and need to fixed ot any updating is to be done is taken care by the Support Manager in Maintenance phase
+

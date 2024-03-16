@@ -1,0 +1,26 @@
+1) System Software :
+> System Software is Software designed to provide a platform for other Software
+> It is a interaction between Hardware & application Software
+> Example : OS
+
+2) Application Software :
+> Application Software is a computer program designed to carry out a specific task as per user & business need
+> Example : Social Medias app , Gaming apps , Word Processing app , etc
+
+3) Engineeing and Scientific Software :
+>  This Software is used to faciliate the Engineeing function and task take real time
+> It has very High accuracy , complex formaula 
+
+4) Emebedded Software :
+> Emebedded Software resided within the System or product and is used to implement and control feature and function for end-user and for the system itself.
+> Example : Switches , Routers , Digital Camera
+
+5) Web Application :
+> It is a client-server computer program which the client runs on the web brower.
+> Web apps can be little more than a set of linked hypertesxt files that present informatio using text and limited graphics.
+> Example : Online Forms , Shopping carts
+
+6) Artifical Intelligence Software :
+> It makes use of non-numerical algorithm to solve a comples program
+> Application within this area includes robotis , expert syste, , pattern recognition, etc
+> Example : Google Cloud , Tensorflow

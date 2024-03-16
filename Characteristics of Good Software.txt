@@ -1,0 +1,21 @@
+Operational : 
+Budget 
+Efficiency
+Usability
+Dependability
+Correctness
+Functionality
+Safety
+Security
+
+Transitional :
+Interperability
+Resuablity
+Portability
+Adaptability
+
+Maintenance :
+Fkesibiity
+Maintainability
+Modularity
+Scalability

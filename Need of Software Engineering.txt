@@ -1,0 +1,9 @@
+1) Handling Big Projects : Corporation must use SE to handle Large Projects without any issues.
+
+2) To manage the cost : Software Engineeing programmers plan everything and reduse all those thingd that are not required.
+
+3) To Decrease Time : It will save a lot of time if you are devepling Software using a Software Engineeing techniques
+
+4) Reliable Software : It is the company's responsibility to deliver Software products on schedule and to address any defects that may exist.
+
+5) Effectiveness : Effectiveness results from things being created in accordance with the Software standards

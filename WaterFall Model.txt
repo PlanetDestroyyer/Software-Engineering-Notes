@@ -1,0 +1,56 @@
+WaterFall Modeling
+
+> Winston Royce Introduced the WaterFall Model in 1970
+> This Model is also known as Linear Sequentail Deveplement Model
+> Each phase must be completed before th next phas can begin . Output of one phase will be input of next phase
+> This model is named " Water Fall Model " , because its diagrammatic representaion of cascading waterfalls
+
+
+Requierments --> Design --> Deveplement --> Testing --> Deployment --> Maintenance  
+
+
+When to use WaterFall Model?
+
+> When the requierments are constant and not changed reqularly
+> Application is not complicated and Big
+> A project is short & simple
+
+
+WaterFall Model Phases
+
+1) Requierment Analysis :
+> The aim of this phase is to understand the exact requierments of the customer and to document them properly 
+> They Discuss function , performance and interfacing requierments of the Software
+
+2) Design Phase :
+> All gathered requierments are converted into suitable Design
+> It defines the overall Software Architecture together with high level and detailed design.
+> High level design include algorithm , flowcart , Decision Tree , etc
+
+3) Deveplement Phase :
+> In this phase Software design is translated into source code using any suitable prgramming Language
+> The Deveplopers first developed in small programs called units after that integraded it 
+
+4)Testing Phase :
+> In this phase, Testing all the testing activites to make sure that the syste meets the client requierments or not
+> After combining all the unit modules , Integration testing is don for any faults and failures
+> In case of any anomaly , report it .
+
+5) Deployment & Maintenance Phase :
+> The product is developed in the customer env or released into the market 
+> In maintainance phase , there are somee issues which come up in the client env 
+> To fix those issues , patched are released
+
+
+
+Pro's Of WaterFall Model :
+
+> Simple and easy to understand and use 
+> Before the next phase of Deveplement , each phase must be completed
+> Works well for small projects
+
+Con's :
+
+> Risk and Uncertainty
+> Error can be fixed only during the phase
+> Not suitable for big projects where changing are requierments

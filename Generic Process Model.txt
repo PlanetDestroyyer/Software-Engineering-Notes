@@ -1,0 +1,55 @@
+> Software processes means to develop quality products by using technical & management rules
+
+> The generic process mdoel is a description of the Software Deveplement process
+
+> It is used in most Software models since it provides a base for them
+
+Process Framework Activites : -
+
+1) Communication :
+
+> The Software Deveplement start with the Communication betwe customer and Deveplopers
+> Deveplopers gather requierments of the projects with the users
+
+2) Planning:
+
+> It consist of complete estimation , scheduling for project Deveplement and tracking
+> Discuss work plan , technical risk , list of resources requierments , work produced & work schedule
+
+3) Modeling :
+
+> Develop a practical model to get a better understanding of the project
+> It consist of complete requierments analysis and design of the project like algorithm , flowcart.
+
+4) Construction :
+
+> Construction consist of code generation and the testing particular part.
+> Coding part implements the design details using an appropriate programming Language
+
+5) Deployment :
+
+> Deployment steo consist of delivering the product to the costomer and take feedback form them
+> If the customer wants some corrections or demands foe the additional capabilities , then the change is required for improvment in the quality of the Software.
+
+Umbrella Activites :- 
+
+1) Software Project Tracking and control :
+
+2) Risk Management 
+
+3) Software Quality Assurance 
+
+4) Technical Reviews 
+
+5) Software Configuration Management
+
+6) Reusability Management
+
+6) Work Product Preparation and Production 
+
+
+Framework Activites :
+
+> Consider Communication Activity for small Project 
+
+> Consider Communication Activity for large 
