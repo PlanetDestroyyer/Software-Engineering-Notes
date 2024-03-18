@@ -1,0 +1,41 @@
+Requierment Engineering consist of seven different tasks :
+
+1) Inception (Better understanding):
+
+> Requierment Engineering asks a set of Questions to establish a software process .
+> They understand basic details aim , goal of the project & find out the solution
+> There is an Collabration between customer & Deveplopers
+
+2) Elicitation (clear understanding of requierment):
+
+> This phase focuses on gathering the requierments from the Stakeholder
+> The right people must be involved in this phase , no space for mistake 
+
+The following problems can occur in the Elicitation phase :
+
+1) Problem of scope
+2) Problem of understanding
+3) Problem of Volatility
+
+
+3) Elaboration (refinement & modelling):
+
+> It takes the requierments that have been gathered in the first two phase and expand them'
+> Its main task is developing model & prototype of software
+
+4) Negotiation (settlement & conflicts):
+
+> Negotiation is between the Deveplopers and the customer about the limited availability of resources , delivery time , project cost & overall estimation of project
+
+5) Specification (SRS document):
+
+> In this the requierment engineer Construct a final work Product
+> THe work product is in the form of software requierment specification document
+
+6) Validation (Validates requierments):
+
+> It checking for errors and debugging in final work product or SRS document
+
+7) Management (Manage changing requierment):
+
+> Requierment management identify , control , track and establish the requierment

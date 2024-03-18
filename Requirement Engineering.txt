@@ -1,0 +1,49 @@
+The Process of gather the software requierments from customer , analyze , and document them is known as Requierment Engineering
+
+Requierment Engineering provides the appropriate mechanism to understand :
+
+1) Customer Desires / wishes
+2) Analyzing Customer need
+3) Assesssing Feasibility
+4) Negotiating a resonable solution
+5) Specifying the solution clearly
+6) Validating the specification and managing the requierments
+
+as they are tranformed into a working systems.
+
+
+Tools in Requierment Engineering
+
+1) Mind Mapping
+2) user stories
+3) Role playing
+4) Prototyping
+
+1) Jira
+2) Doc sheets
+3) Requierments Hub
+4) SpiraTeam
+
+
+Esatblishing Ground Work :
+
+1) identifyin the Stakeholder :
+
+> Any person who benefits directly or indirectly from the system being developed is a Stakeholder
+
+2) Recognizing Multiple Viewpoints :
+
+> Beacuse there are so mant different Stakeholder the system's requierments will be examined from various Viewpoints.
+
+3) Working Toward Collabration :
+
+> If there are five Stakeholder involved in a software project, there may be five different opinions on the set of requierments
+> Customer must work together with software development team to create a successful system
+> A requierments engineer's job is to identify area of commonality requierments as well as areas of conflict requierments
+
+4) Asking the first Questions :
+
+> The first set of Questions are focuses on the customer , Stakeholder as well as the overall project goal and benefits.
+
+
+
