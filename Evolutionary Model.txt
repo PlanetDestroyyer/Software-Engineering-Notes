@@ -1,0 +1,68 @@
+The evolutionary model is a combination of the Iterative and Incremental models of the software development life cycle. Delivering your system in a big bang release, delivering it in incremental process over time is the action done in this model. Some initial requirements and architecture envisioning need to be done.
+
+Features :
+
+> Changing Requierment
+> Used in Large Projects
+> Quick release
+> Customer Feedback Taken
+> Error easy to recognized
+> Cost Reduction
+
+
+Disadvantages :
+> Deadline is not confirmed
+
+Types of evolutionary Model :
+
+1) Prototyping Model :
+
+The Prototyping model is a systems development method in which a prototype is built, tested and then reworked as necessary until an acceptable outcome is achieved from which the complete system or product can be developed
+
+Features :
+
+> Used Prototyping method
+> Used in Large Projects
+> Changing requierments
+> Customer Feedback Taken
+> Errors easy to recognized
+> Low Risk
+
+
+Disadvantages :
+> Costly with respect to time & money
+> Poor Documentation
+
+2) Spiral Model :
+
+The Spiral model is a system development lifecycle method used for Risk management that conbines the iterative development process model with elements of the WaterFall model. The Spiral model is used by software engineers and is favored for large , expensive and complicated projects
+
+Features :
+
+> Used in Large & critical Projects
+> Risk identify & analysis Risk
+> Used Prototyping method
+> Changing requierments
+> customer Feedback Taken
+> Errors easy to recognized
+
+
+Disadvantages :
+> Requierments are unclear & complex
+> High Budget
+> Excess Documentation
+
+
+3) Concurrent Model :
+
+The Concurrent model is a methodology in which multiple phases of the software development process are performed simultaneously . The main goal of the Concurrent development model is to produce a final product that meets the customer's requierments while minimizing the overall development time and cost 
+
+
+Features :
+> Applicable to All SDLC models
+> Easy to use 
+> Provide accurate state of current activity
+
+
+Disadvantages : 
+> Must have better communication in team

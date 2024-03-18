@@ -1,0 +1,13 @@
+The Agile Model is a type of incremental model where software is developed in a rapid increment cycle. The most notable Feature of the Agile model is the establishment of the project scope , requierments , number and duration of iteration at the beginning of the development process
+
+Feature :
+> Used in Large Projects
+> Changing requierments
+> Continue Customer involvment
+> Highly qualified team required
+> Errors easy to recognized
+> Flexiable timeline & Budget
+
+Disadvantages :
+> Poor Documentation
+> Maintainance difficult
