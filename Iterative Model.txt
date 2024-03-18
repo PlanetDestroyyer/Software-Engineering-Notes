@@ -1,0 +1,19 @@
+
+The iterative model is a software development approach that breaks down projects into smaller, manageable chunks called iterations. Each iteration involves planning, analysis, design, development, testing, and deployment
+
+Requierments --> Design --> Deveplement --> Testing --> Deployment --> Maintenance  --> Review --> Requierment ---> Repeat
+
+
+ Features:
+ 
+ > Changing Requierments
+ > Used in Large Projects
+ > Customer Feedback Taken
+
+ Disadvantages :
+
+ > More Resources required
+ > Deadline not confirmed
+ > Over Budget
+
+

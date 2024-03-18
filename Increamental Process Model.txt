@@ -1,0 +1,13 @@
+Incremental Model, also known as the successive version model, is a widely adopted model of software development process where the software requirements are divided or broken down into multiple stand-alone modules/increments in the SDLC (Software Development Life Cycle)
+
+
+Features :
+
+> Fixed Requierment
+> Used in Large Projects
+> Quick released
+> Error easy to recognized
+
+Disadvantages :
+> More Resources required
+> Good team & proper planning required
